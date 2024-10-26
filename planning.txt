@@ -1,0 +1,26 @@
+ROUTES
+controller -> create update features associated with that particular model
+
+
+1. User
+->register
+->login
+->logout
+->update (profile)
+
+2. Company
+
+->Create
+->Update
+->get all Company created by particular user(recruiter)
+->get particular company 
+
+3. Job
+
+->create job(created by any recruiter)
+-> display all jobs
+->get job by id
+->get all jobs created by a recruiter
+
+
+
